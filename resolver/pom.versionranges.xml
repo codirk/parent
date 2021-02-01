@@ -28,7 +28,7 @@
                         <version>2.8.1</version>
                         <executions>
                             <execution>
-                                <phase>install</phase>
+                                <phase>package</phase>
                                 <goals>
                                     <goal>resolve-ranges</goal>
                                 </goals>
